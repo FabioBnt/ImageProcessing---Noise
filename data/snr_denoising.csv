@@ -1,0 +1,4 @@
+image_name,snr_value,method_name
+image1_bruitee_snr_9.2885.png,10.64811289729019,Convolution
+image1_bruitee_snr_9.2885.png,9.47922089493999,Improved 2D Convolution
+image1_bruitee_snr_9.2885.png,10.187367064231942,Improved 2D Convolution with Padding
